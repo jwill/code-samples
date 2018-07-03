@@ -1,0 +1,325 @@
+{
+  "city":   {
+    "id": 5375480,
+    "name": "Mountain View",
+    "coord":     {
+      "lon": -122.08384,
+      "lat": 37.386051
+    },
+    "country": "US",
+    "population": 0
+  },
+  "cod": "200",
+  "message": 0.0158,
+  "cnt": 14,
+  "list":   [
+        {
+      "dt": 1528850409.427,
+      "temp":       {
+        "day": 29.49,
+        "min": 13.32,
+        "max": 18.27,
+        "night": 9.52,
+        "eve": 21.09,
+        "morn": 15.42
+      },
+      "pressure": 996.68,
+      "humidity": 96,
+      "weather": [      {
+        "id": 500,
+        "main": "Light Rain",
+        "description": "Light Rain",
+        "icon": "02d"
+      }],
+      "speed": 1.2,
+      "deg": 0,
+      "clouds": 20
+    },
+        {
+      "dt": 1528936809.427,
+      "temp":       {
+        "day": 29.49,
+        "min": 12.66,
+        "max": 17.34,
+        "night": 9.52,
+        "eve": 21.09,
+        "morn": 15.42
+      },
+      "pressure": 996.12,
+      "humidity": 97,
+      "weather": [      {
+        "id": 501,
+        "main": "Moderate Rain",
+        "description": "Moderate Rain",
+        "icon": "02d"
+      }],
+      "speed": 4.8,
+      "deg": 45,
+      "clouds": 20
+    },
+        {
+      "dt": 1529023209.427,
+      "temp":       {
+        "day": 29.49,
+        "min": 12.07,
+        "max": 16.48,
+        "night": 9.52,
+        "eve": 21.09,
+        "morn": 15.42
+      },
+      "pressure": 995.7,
+      "humidity": 90,
+      "weather": [      {
+        "id": 800,
+        "main": "Clear",
+        "description": "Clear",
+        "icon": "02d"
+      }],
+      "speed": 8.2,
+      "deg": 90,
+      "clouds": 20
+    },
+        {
+      "dt": 1529109609.427,
+      "temp":       {
+        "day": 29.49,
+        "min": 11.53,
+        "max": 12.34,
+        "night": 9.52,
+        "eve": 21.09,
+        "morn": 15.42
+      },
+      "pressure": 1001.22,
+      "humidity": 87,
+      "weather": [      {
+        "id": 802,
+        "main": "Scattered Clouds",
+        "description": "Scattered Clouds",
+        "icon": "02d"
+      }],
+      "speed": 3.6,
+      "deg": 135,
+      "clouds": 20
+    },
+        {
+      "dt": 1529196009.427,
+      "temp":       {
+        "day": 29.49,
+        "min": 14.62,
+        "max": 15.36,
+        "night": 9.52,
+        "eve": 21.09,
+        "morn": 15.42
+      },
+      "pressure": 1001.51,
+      "humidity": 88,
+      "weather": [      {
+        "id": 803,
+        "main": "Broken Clouds",
+        "description": "Broken Clouds",
+        "icon": "02d"
+      }],
+      "speed": 4,
+      "deg": 180,
+      "clouds": 20
+    },
+        {
+      "dt": 1529282409.427,
+      "temp":       {
+        "day": 29.49,
+        "min": -2,
+        "max": -1.1,
+        "night": 9.52,
+        "eve": 21.09,
+        "morn": 15.42
+      },
+      "pressure": 997.54,
+      "humidity": 78,
+      "weather": [      {
+        "id": 600,
+        "main": "Light Snow",
+        "description": "Light Snow",
+        "icon": "02d"
+      }],
+      "speed": 2.6,
+      "deg": 225,
+      "clouds": 20
+    },
+        {
+      "dt": 1529368809.427,
+      "temp":       {
+        "day": 29.49,
+        "min": -1.5,
+        "max": -1,
+        "night": 9.52,
+        "eve": 21.09,
+        "morn": 15.42
+      },
+      "pressure": 996.55,
+      "humidity": 80,
+      "weather": [      {
+        "id": 601,
+        "main": "Snow",
+        "description": "Snow",
+        "icon": "02d"
+      }],
+      "speed": 3.8,
+      "deg": 270,
+      "clouds": 20
+    },
+        {
+      "dt": 1529455209.427,
+      "temp":       {
+        "day": 29.49,
+        "min": -1,
+        "max": 0.5,
+        "night": 9.52,
+        "eve": 21.09,
+        "morn": 15.42
+      },
+      "pressure": 996.76,
+      "humidity": 85,
+      "weather": [      {
+        "id": 602,
+        "main": "Heavy Snow",
+        "description": "Heavy Snow",
+        "icon": "02d"
+      }],
+      "speed": 5.2,
+      "deg": 315,
+      "clouds": 20
+    },
+        {
+      "dt": 1529541609.427,
+      "temp":       {
+        "day": 29.49,
+        "min": 0.5,
+        "max": 2,
+        "night": 9.52,
+        "eve": 21.09,
+        "morn": 15.42
+      },
+      "pressure": 998.56,
+      "humidity": 90,
+      "weather": [      {
+        "id": 611,
+        "main": "Sleet",
+        "description": "Sleet",
+        "icon": "02d"
+      }],
+      "speed": 10.3,
+      "deg": 0,
+      "clouds": 20
+    },
+        {
+      "dt": 1529628009.427,
+      "temp":       {
+        "day": 29.49,
+        "min": 5,
+        "max": 7.5,
+        "night": 9.52,
+        "eve": 21.09,
+        "morn": 15.42
+      },
+      "pressure": 1000.21,
+      "humidity": 80,
+      "weather": [      {
+        "id": 741,
+        "main": "Fog",
+        "description": "Fog",
+        "icon": "02d"
+      }],
+      "speed": 1.5,
+      "deg": 45,
+      "clouds": 20
+    },
+        {
+      "dt": 1529714409.427,
+      "temp":       {
+        "day": 29.49,
+        "min": 10.21,
+        "max": 12.35,
+        "night": 9.52,
+        "eve": 21.09,
+        "morn": 15.42
+      },
+      "pressure": 1000.11,
+      "humidity": 97,
+      "weather": [      {
+        "id": 960,
+        "main": "Storm",
+        "description": "Storm",
+        "icon": "02d"
+      }],
+      "speed": 70.2,
+      "deg": 90,
+      "clouds": 20
+    },
+        {
+      "dt": 1529800809.427,
+      "temp":       {
+        "day": 29.49,
+        "min": 12.2,
+        "max": 19.01,
+        "night": 9.52,
+        "eve": 21.09,
+        "morn": 15.42
+      },
+      "pressure": 990.01,
+      "humidity": 97,
+      "weather": [      {
+        "id": 960,
+        "main": "Storm",
+        "description": "Storm",
+        "icon": "02d"
+      }],
+      "speed": 80.1,
+      "deg": 135,
+      "clouds": 20
+    },
+        {
+      "dt": 1529887209.427,
+      "temp":       {
+        "day": 29.49,
+        "min": 13,
+        "max": 18.01,
+        "night": 9.52,
+        "eve": 21.09,
+        "morn": 15.42
+      },
+      "pressure": 989.01,
+      "humidity": 98,
+      "weather": [      {
+        "id": 901,
+        "main": "Tropical Storm",
+        "description": "Tropical Storm",
+        "icon": "02d"
+      }],
+      "speed": 110.1,
+      "deg": 180,
+      "clouds": 20
+    },
+        {
+      "dt": 1529973609.427,
+      "temp":       {
+        "day": 29.49,
+        "min": 12.2,
+        "max": 19.01,
+        "night": 9.52,
+        "eve": 21.09,
+        "morn": 15.42
+      },
+      "pressure": 980.01,
+      "humidity": 99,
+      "weather": [      {
+        "id": 902,
+        "main": "Hurricane",
+        "description": "Hurricane",
+        "icon": "02d"
+      }],
+      "speed": 148.1,
+      "deg": 225,
+      "clouds": 20
+    }
+  ]
+}
